@@ -16,7 +16,6 @@ skills:
   summary: "Working with all parts of the M365 ecosystem, such as Exchange, Teams, and SharePoint."
 
 - name: Microsoft Azure
-  logo: "/images/sections/skills/azure.png"
   summary: "Capable of deploying and managing Azure resources efficiently with modern deployment practices, such as using Terraform."
   url: "https://azure.microsoft.com/en-gb/"
 
