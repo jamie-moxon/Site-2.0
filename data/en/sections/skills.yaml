@@ -12,7 +12,6 @@ section:
 # Give a summary of you each skill in the summary section.
 skills:
 - name: Microsoft 365
-  logo: "/images/sections/skills/m365.png"
   summary: "Working with all parts of the M365 ecosystem, such as Exchange, Teams, and SharePoint."
 
 - name: Microsoft Azure
@@ -20,16 +19,13 @@ skills:
   url: "https://azure.microsoft.com/en-gb/"
 
 - name: Cloud Migration
-  logo: "/images/sections/skills/cloud.png"
   summary: "Migrating on-premise resources to the cloud in a cost effective manner. I work with enterprise scale infrastructure to migrate to the cloud or hybrid cloud."
 
 - name: Modern Identity
-  logo: "/images/sections/skills/AzureAD.png"
   summary: "Modern identity practices, such as implementing Azure Active Directory in a secure manner.Knowledge of all modern Authentication technologies such as SAML."
 
 - name: Modern Device Management
-  logo: "/images/sections/skills/MDM.png"
   summary: "Modern Device and App management with the use of Microsoft Endpoint Manager and Microsoft Intune."
 
 - name: Infrastructure
-  summary: All things Windows, Windows Server and Linux.  
+  summary: All things Windows, Windows Server and Linux.
