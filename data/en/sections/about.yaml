@@ -1,0 +1,84 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Cloud Engineer
+# your company information
+company:
+  name: Shaping Cloud
+  url: "https://www.shapingcloud.com"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'Hey! My Name is Jamie, and I am a Cloud Engineer working remotely in the UK. I work predominantly with Microsoft 365 and Microsoft Azure. 
+I started in the IT Industry working in the Legal sector, eventually working from a Service Desk up until I became a System Administrator. 
+Fast forward to 2022, I now work fully remote as a Cloud Engineer, 
+helping clients migrate their workloads to Azure and to use the Microsoft 365 platform as effectively as possible with modern working practices.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "j.moxon@hotmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/moccolfc"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/jamie-moxon/"
+
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://twitter.com/moccolfc"
+
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+- type: certification
+  name: Microsoft 365 Enterprise Administrator Expert
+  url: "https://www.credly.com/badges/52b19b37-8336-41cf-8730-07f5b20fd368"
+  badge: "https://images.credly.com/size/680x680/images/dfa4cb20-16ed-42ca-90a5-6528b62ee651/microsoft365-enterprise-adminstrator-expert-600x600.png"
+
+- type: certification
+  name: Microsoft 365 Certified Security Administrator Associate
+  url: "https://www.credly.com/badges/4c82af7f-c7f3-47ad-b506-177dd8313bce"
+  badge: "https://images.credly.com/size/680x680/images/e1b12077-7be7-493a-8b7a-afa6e58182ce/microsoft365-security-administrator-associate-600x600.png"
+
+- type: certification
+  name: Microsoft Certified Azure Administrator Associate
+  url: "https://www.credly.com/badges/e8b5b41a-dc83-4f60-9ce7-bedf81b01ecd"
+  badge: "https://images.credly.com/size/680x680/images/f39519e4-fc12-4296-9a20-28d0a3755171/azure-administrator-associate.png"
+
+- type: soft-skill-indicator
+  name: Technical solutions
+  percentage: 90
+  color: blue
+
+- type: soft-skill-indicator
+  name: Modern workplace
+  percentage: 90
+  color: yellow
+
+- type: soft-skill-indicator
+  name: Cloud efficiency
+  percentage: 85
+  color: orange
+
+# you can also provide color code instead of the color name
+# - type: soft-skill-indicator
+#   name: Example 1
+#   percentage: 75
+#   color: "#00adb5"

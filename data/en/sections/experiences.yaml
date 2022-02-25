@@ -1,0 +1,59 @@
+# section information
+section:
+  name: Where I've worked
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Shaping Cloud
+    url: "https://www.shapingcloud.com"
+    location: Fully Remote!
+    # company overview
+    overview: Dedicated to a cloud first, mobile first future that goes beyond hosting. Shaping Cloud deliver innovative software, platform and infrastructure cloud solutions that reduce costs, increase efficiency and drive engagement.
+  positions: 
+  - designation: Cloud Engineer
+    start: Nov 2019
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Architecting and implementing Microsoft 365 solutions for clients
+    - Microsoft 365 security & governance
+    - Working with and migrating workloads to Microsoft Azure
+    - Infrastructure As Code
+    - Cloud Identity solutions
+
+- company:
+    name: Brookes Bell
+    url: "https://www.brookesbell.com"
+    location: Liverpool, UK
+    overview: Founded in 1903, Brookes Bell is a leading multi-disciplinary technical and scientific consultancy serving the marine and energy sectors.
+  positions:
+  - designation: System Administrator
+    start: July 2019
+    end: April 2021
+    responsibilities:
+    - Modern Endpoint Management with Microsoft Endpoint Manager
+    - Implementing the Microsoft 365 platform
+    - Implementing modern security practices
+    - Moving on-premise data and workloads to the cloud
+
+- company:
+    name: point64/ABC Managed Services
+    url: "https://www.abcmanagedservices.uk"
+    location: Cheshire, UK
+    overview: Managed Technology Services
+  positions:
+  - designation: Technical Specialist
+    start: November 2016
+    end: July 2019
+    responsibilities:
+    - 1st to third line service desk for clients in different sectors
+    - Implementing the Microsoft 365 platform and modern identity tools such as Okta
+    - Migrating workloads to the cloud

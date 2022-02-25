@@ -1,0 +1,16 @@
+# some information about you
+name: "Jamie Moxon"
+nickname: "Jamie"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+image: "images/author/jamie.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "j.moxon@hotmail.com"
+
+# some summary about what you do
+summary:
+  - I am a Cloud Engineer
+  - Focusing on all things Azure
+  - I work on all things Microsoft 365
+  - Interested in all things tech.
