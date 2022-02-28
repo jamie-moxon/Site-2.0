@@ -1,3 +1,3 @@
-# My Personal website & Blog
+# My personal website & Blog
 
-## created February 2022
+## Created February 2022
