@@ -51,9 +51,9 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/moccolfc/Site-2.0
   # Default branch of your Git repo
-  gitBranch: source
+  gitBranch: master
 
   # Configure the number of section title visible in the top navbar
   topNavbar:
