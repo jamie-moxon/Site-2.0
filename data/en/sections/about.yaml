@@ -15,7 +15,7 @@ company:
   url: "https://www.shapingcloud.com"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/Resume.pdf"
+resume: "files/resume.pdf"
 
 # a summary about you
 summary: 'Hey! My Name is Jamie, and I am a Cloud Engineer working remotely in the UK. I work predominantly with Microsoft 365 and Microsoft Azure. 
