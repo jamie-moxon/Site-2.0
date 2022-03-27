@@ -62,17 +62,17 @@ badges:
   url: "https://www.credly.com/badges/e8b5b41a-dc83-4f60-9ce7-bedf81b01ecd"
   badge: "https://images.credly.com/size/680x680/images/f39519e4-fc12-4296-9a20-28d0a3755171/azure-administrator-associate.png"
 
-- type: soft-skill-indicator
+#- type: soft-skill-indicator
   name: Technical solutions
   percentage: 90
   color: blue
 
-- type: soft-skill-indicator
+#- type: soft-skill-indicator
   name: Modern workplace
   percentage: 90
   color: yellow
 
-- type: soft-skill-indicator
+#- type: soft-skill-indicator
   name: Cloud efficiency
   percentage: 85
   color: orange

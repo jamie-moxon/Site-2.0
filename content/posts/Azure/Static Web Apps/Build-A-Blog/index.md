@@ -25,7 +25,7 @@ One of the best things about SWA's is that there is a free tier which gives us a
 # What is Hugo?
 
 
-{{< img src="hugologo.png" width="400" align="center">}}
+{{< figure src="hugologo.png" width="400" align="center">}}
 
 
 [Hugo](https://gohugo.io/) is a popular static website generator. With using Hugo, we don't need to really care for any code or database in the back end.
