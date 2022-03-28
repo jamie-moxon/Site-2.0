@@ -42,7 +42,7 @@ If you haven't got an Azure Subscription, you will need to get one before you ca
 Once you have select the Azure Static Web Apps option, continue with creating your Azure Static Web App. It will need a Resource Group creating before the SWA can be created. As you can see from the screenshot below, there is a free tier of Azure Static Web Apps, This currently offers nearly everything that SWAs offer, including the likes of SSL certificates.
 
 
-{{< img src="SWAcreation.png" width="700" align="center">}}
+{{< figure src="SWAcreation.png" width="700" align="center">}}
 
 The major part of the SWA creation is the connection to your Github repository. You will need to sign into Github from the Azure Portal and give Azure permission to connect to Github. 
 
@@ -71,7 +71,7 @@ Whilst this is displayed, the Github Action will continue to run in the backgrou
 
 If you visit your Github Repository on Github, you can see there is an option to look at the current Github Actions running on your repository. There will be an initial action running when you deploy the Static Web App in Azure, This shows the action running through your code and then deploying it in Azure. You will see similarities with building your Hugo Blog locally:
 
-{{< img src="localcomparison.png" width="700" >}}
+{{< figure src="localcomparison.png" width="700" >}}
 
 
 Upon completion of the Github action, your Hugo website should be deployed to your Azure Static Web App! The github action upon completion will show that it is successfully ran and provides a link to your Static Web App:
