@@ -19,6 +19,15 @@ buttons:
 
 # your projects
 projects:
+- name: Standing Tall Foundation
+  logo: /images/sections/projects/STF.png
+  role: M365 SME
+  timeline: "September 2021 - Present"
+  #repo: # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://www.standingtallfoundation.org.uk/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Migrating the foundation to M365 and M365 non-profit licensing. Providing workshops on how to use the Microsoft 365 platform.
+  tags: ["professional", "M365", "Cloud migration", "non-profits"]
+
 - name: Azure Networking 101
   logo: /images/sections/projects/Terraform.png
   role: Contributor
