@@ -50,7 +50,7 @@ These Personas can often be described by highlighting the type of users that an 
 | **Guests** | Users who have been invited into an Azure Active Directory Tenant and are from a third party. |
 | **Guest Admins** | User accounts same as the above, but with access to privileged roles in an AAD Tenant |
 | **Service Accounts** | Accounts that are user accounts but used for specialised use cases such as backups and legacy applications |
-| **Workload Identities** |  Service principals and managed identities, used similarly to service accounts. |
+| **Workload Identities** |   Service principals and managed identities, used similarly to service accounts. |
 
 
 <br>Alongside the above, there is another persona, which is the “global” persona. This Persona is used for users that aren’t part of another persona. This Persona will also contain policies that apply globally across all personas.
