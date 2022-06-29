@@ -35,7 +35,7 @@ If you have a good understanding of how numerous different personas access and u
 
 #### So how do we get started with Personas?
 
-Thankfully, Microsoft have come up with a list of suggested personas an organisation tends to have in their organisation. These are:
+Thankfully, Microsoft have come up with a list of suggested personas an organisation tends to have in their organisation. They are:
 
 ![types of personas](Personas.png)
 
