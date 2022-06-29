@@ -14,7 +14,7 @@ categories: ["Microsoft Azure, Security"]
 
 
 
-Conditional Access is Security 101 for organisations that use Azure Active Directory. Any modern organisation will have numerous types of users and employees who have different needs, and these days with hybrid working environments, the common perimeter of a corporate network has now changed from a traditional on-premise network to a mobile devices and users working remotely.
+Conditional Access is security 101 for organisations that use Azure Active Directory. Any modern organisation will have numerous types of users and employees who have different needs, and these days with hybrid working environments, the common perimeter of a corporate network has now changed from a traditional on-premise network to a mobile devices and users working remotely.
 Conditional Access allows an organisation to provide a layer of security across their identities, devices and applications. Often, I have seen Conditional Access being either mis-configured, Switched off completely or having duplicate policies that cover the same conditions, which can often cause a lot of confusion for IT admins.
 
 Fast forward to today, and the day of the “Hybrid working” is here to stay. It is a common need for all employees to work from home or work remotely, therefore the security perimeter now extends to mobile and BYOD devices.
