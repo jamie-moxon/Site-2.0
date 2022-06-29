@@ -1,6 +1,6 @@
 ---
 title: Getting started with a Framework for Conditional Access
-date: 2022-06-01T06:15:50+06:00
+date: 2022-06-29T06:15:50+06:00
 hero: personatitle.png
 menu:
   sidebar:
