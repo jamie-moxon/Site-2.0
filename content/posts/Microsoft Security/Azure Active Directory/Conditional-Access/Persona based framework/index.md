@@ -1,7 +1,7 @@
 ---
 title: Getting started with a Framework for Conditional Access
 date: 2022-06-01T06:15:50+06:00
-hero: hugotitle.jpg
+hero: personatitle.png
 menu:
   sidebar:
     name: Persona based Conditional Access
