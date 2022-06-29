@@ -4,8 +4,8 @@ date: 2022-03-28T06:15:50+06:00
 hero: Q1title.png
 menu:
   sidebar:
-    name: Build A Hugo Blog
-    identifier: Hug-Blog-Part-One
+    name: Q1 Update
+    identifier: Q1-2022-Update
     parent: Personal
     weight: 100
 tags: ["M365", "Cloud", "personal"]
