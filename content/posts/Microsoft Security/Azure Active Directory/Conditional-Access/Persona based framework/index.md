@@ -37,7 +37,7 @@ If you have a good understanding of how numerous different personas access and u
 
 Thankfully, Microsoft have come up with a list of suggested personas an organisation tends to have in their organisation. They are:
 
-![types of personas](Personas.png)
+![](Personas.png)
 
 These Personas can often be described by highlighting the type of users that an organisation may have, such as the below:
 
