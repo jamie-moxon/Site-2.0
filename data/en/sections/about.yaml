@@ -62,6 +62,11 @@ badges:
   url: "https://www.credly.com/badges/c1c79c7d-7acc-4b5f-819e-9cd60e50e459/public_url"
   badge: "https://images.credly.com/size/680x680/images/f39519e4-fc12-4296-9a20-28d0a3755171/azure-administrator-associate.png"
 
+- type: certification
+  name: EFF Member 2022
+  url: "https://www.eff.org/"
+  badge: "https://www.eff.org/files/2021/12/20/member-badge-2022b.jpg"
+
 #- type: soft-skill-indicator
   name: Technical solutions
   percentage: 90
