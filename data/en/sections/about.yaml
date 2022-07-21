@@ -63,6 +63,12 @@ badges:
   badge: "https://images.credly.com/size/680x680/images/f39519e4-fc12-4296-9a20-28d0a3755171/azure-administrator-associate.png"
 
 - type: certification
+  name: Microsoft Certified Identity And Access Administrator Associate
+  url: "https://www.credly.com/badges/92fb9f43-425c-47af-8767-725c036e3738/public_url"
+  badge: "https://images.credly.com/size/680x680/images/91295436-0704-4b98-8e1a-ef5f937bda21/identity-and-access-administrator-associate-600x600.png"
+
+
+- type: certification
   name: EFF Member 2022
   url: "https://www.eff.org/"
   badge: "https://www.eff.org/files/2021/12/20/member-badge-2022b.jpg"
