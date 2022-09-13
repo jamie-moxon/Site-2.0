@@ -1,0 +1,9 @@
+# section information
+section:
+  name: Recent Posts
+  id: recent-posts
+  enable: true
+  weight: 6 # Order to display section in (default: alphabetical followed by weight)
+  showOnNavbar: true # Boolean to determine if a link should be shown for this section on the navbar
+  hideTitle: false
+  numShow: 4
