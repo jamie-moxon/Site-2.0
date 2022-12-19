@@ -67,6 +67,10 @@ badges:
   url: "https://www.credly.com/badges/92fb9f43-425c-47af-8767-725c036e3738/public_url"
   badge: "https://images.credly.com/size/680x680/images/91295436-0704-4b98-8e1a-ef5f937bda21/identity-and-access-administrator-associate-600x600.png"
 
+- type: certification
+  name: Microsoft Certified Azure Network Engineer Associate
+  url: "https://www.credly.com/badges/d2957da5-fcf3-48da-a29e-9a9737ad43ed/public_url"
+  badge: "https://images.credly.com/size/680x680/images/c3a2e51d-7984-48cc-a4cb-88d4e8487037/azure-network-engineer-associate-600x600.png"
 
 - type: certification
   name: EFF Member 2022
