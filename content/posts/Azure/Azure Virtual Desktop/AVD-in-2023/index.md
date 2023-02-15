@@ -1,7 +1,7 @@
 ---
 title: Azure Virtual Desktop in 2023
 date: 2023-02-14T06:15:50+06:00
-hero: avdtitle.png
+hero: AVDTitle.png
 menu:
   sidebar:
     name: AVD in 2023
