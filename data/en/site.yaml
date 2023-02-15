@@ -24,6 +24,6 @@ description: Portfolio and personal blog of John Doe.
 openGraph:
   title: Jamie Moxon - Cloud Engineer
   type: website
-  description: All things Microsoft Azure and Microsoft 365.
+  description: All things Tech.
   image: images/author/jamie.png
   url: https://www.jamiemoxon.tech
