@@ -77,4 +77,7 @@ Devices can still fail in todays modern world, and it can be a pain to end users
 
 Most enterprises and organisations today have external people such as Auditors, Contractors or even third party IT companies (Not every company uses Azure Bastion!) needing to access applications and documents securely. AVD can be good for external third parties, as it can be quickly deployed to give them access to a secure environment and they won't be able to move any data from the platform to their own device. 
 
+# What's next in this blog?
+
 So there is a quick overview of Azure Virtual Desktop, its uses and how it could be a good platform for your organisation to use in different scenarios. In this blog series I hope to give a good overview of how to configure AVD for multiple scenarios, and how to use modern deployment methods such as Terraform and Azure Landing Zones. 
+
