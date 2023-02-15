@@ -71,7 +71,7 @@ Similar to other VDI solutions such as Windows 365, Azure Virtual Desktop can be
 
 **Device replacement**
 
-Devices can still fail in todays modern world, and it can be a pain to end users if they don't have another way to work whilst they are waiting on a new device to be deployed too them. AVD is an ideal solution to have in the background, for users to access their files and applications whilst waiting for their new device. Windows 365 is also a great solution for this, but is billed on a monthly-license, Therefore if an AVD environment was already deployed, there would be no additional cost to the extra users using AVD whilst their device is being deployed.
+Devices can still fail in todays modern world, and it can be a pain to end users if they don't have another way to work whilst they are waiting on a new device to be deployed to them. AVD is an ideal solution to have in the background, for users to access their files and applications whilst waiting for their new device. Windows 365 is also a great solution for this, but is billed on a monthly-license, Therefore if an AVD environment was already deployed, there would be no additional cost to the extra users using AVD whilst their device is being deployed.
 
 **External Third-party users**
 
