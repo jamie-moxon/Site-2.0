@@ -72,6 +72,10 @@ badges:
   url: "https://www.credly.com/badges/d2957da5-fcf3-48da-a29e-9a9737ad43ed/public_url"
   badge: "https://images.credly.com/size/680x680/images/c3a2e51d-7984-48cc-a4cb-88d4e8487037/azure-network-engineer-associate-600x600.png"
 
+- type: certification
+  name: Microsoft Certified Azure Virtual Desktop Specialty
+  url: "https://www.credly.com/badges/554aadee-bfba-4869-a5de-d8533ab9517a/public_url"
+  badge: "https://images.credly.com/size/680x680/images/ea009208-e2d6-432e-bbf6-d34d28b0835f/azure-virtual-desktop-specialty-600x600.png"
 
 #- type: soft-skill-indicator
   name: Technical solutions
