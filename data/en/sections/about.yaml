@@ -49,32 +49,32 @@ socialLinks:
 badges:
 - type: certification
   name: Microsoft 365 Enterprise Administrator Expert
-  url: "https://www.credly.com/badges/52b19b37-8336-41cf-8730-07f5b20fd368"
+  url: "https://learn.microsoft.com/api/credentials/share/en-gb/JamieMoxon-5710/5EF1AD322171B24B?sharingId=8955F7A46FFA8F00"
   badge: "https://images.credly.com/size/680x680/images/dfa4cb20-16ed-42ca-90a5-6528b62ee651/microsoft365-enterprise-adminstrator-expert-600x600.png"
 
 - type: certification
   name: Microsoft 365 Certified Security Administrator Associate
-  url: "https://www.credly.com/badges/4c82af7f-c7f3-47ad-b506-177dd8313bce"
+  url: "https://learn.microsoft.com/api/credentials/share/en-gb/JamieMoxon-5710/D0F23AFC5389B1F4?sharingId=8955F7A46FFA8F00"
   badge: "https://images.credly.com/size/680x680/images/e1b12077-7be7-493a-8b7a-afa6e58182ce/microsoft365-security-administrator-associate-600x600.png"
 
 - type: certification
   name: Microsoft Certified Azure Administrator Associate
-  url: "https://www.credly.com/badges/c1c79c7d-7acc-4b5f-819e-9cd60e50e459/public_url"
+  url: "https://learn.microsoft.com/api/credentials/share/en-gb/JamieMoxon-5710/BBFED26866429C70?sharingId=8955F7A46FFA8F00"
   badge: "https://images.credly.com/size/680x680/images/f39519e4-fc12-4296-9a20-28d0a3755171/azure-administrator-associate.png"
 
 - type: certification
   name: Microsoft Certified Identity And Access Administrator Associate
-  url: "https://www.credly.com/badges/92fb9f43-425c-47af-8767-725c036e3738/public_url"
+  url: "https://learn.microsoft.com/api/credentials/share/en-gb/JamieMoxon-5710/199834DF6D5561A1?sharingId=8955F7A46FFA8F00"
   badge: "https://images.credly.com/size/680x680/images/91295436-0704-4b98-8e1a-ef5f937bda21/identity-and-access-administrator-associate-600x600.png"
 
 - type: certification
   name: Microsoft Certified Azure Network Engineer Associate
-  url: "https://www.credly.com/badges/d2957da5-fcf3-48da-a29e-9a9737ad43ed/public_url"
+  url: "https://learn.microsoft.com/api/credentials/share/en-gb/JamieMoxon-5710/5E060DDA69BD6764?sharingId=8955F7A46FFA8F00"
   badge: "https://images.credly.com/size/680x680/images/c3a2e51d-7984-48cc-a4cb-88d4e8487037/azure-network-engineer-associate-600x600.png"
 
 - type: certification
   name: Microsoft Certified Azure Virtual Desktop Specialty
-  url: "https://www.credly.com/badges/554aadee-bfba-4869-a5de-d8533ab9517a/public_url"
+  url: "https://learn.microsoft.com/api/credentials/share/en-gb/JamieMoxon-5710/A45B03B39D3D899A?sharingId=8955F7A46FFA8F00"
   badge: "https://images.credly.com/size/680x680/images/ea009208-e2d6-432e-bbf6-d34d28b0835f/azure-virtual-desktop-specialty-600x600.png"
 
 #- type: soft-skill-indicator
